@@ -1,0 +1,21 @@
+.container{
+	background: rgb(170, 198, 202);
+}
+.form-style-9{
+	max-width: 450px;
+	background: #aff1f1;
+	padding: 30px;
+	margin: 50px auto;
+	box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+	border-radius: 10px;
+	border: 6px solid #305A72;
+}
+.titulo{
+	text-align: center;
+	color: rgb(255, 255, 255);
+}
+.cardtitulo{
+	border: 1px #0000;
+	background-color: rgb(53, 181, 240);
+	border-radius: 5px;
+}
